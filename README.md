@@ -38,3 +38,4 @@ Cloudinary to allow users to upload photos to associate with each memory.
 | DELETE | /memories/:id | DESTROY | delete a specific memory |
 
 ## Wireframes
+![Project 3 Wireframes](./p3-wireframe.png)
