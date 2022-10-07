@@ -1,6 +1,6 @@
 # Project 3
 
-Getting Old!!! no problem Memory is An app that allows users to keep a journal of any important events or memories. Users will be able to post their memories with images of the events as well as some notes with their thoughts.
+Getting Old!!! no problem Memory is an app that allows users to keep a journal of any important events or memories. Users will be able to post their memories with images of the events as well as some notes with their thoughts.
 
 ## API
 Cloudinary to allow users to upload photos to associate with each memory.
