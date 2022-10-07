@@ -23,6 +23,7 @@ Cloudinary to allow users to upload photos to associate with each memory.
 - 
 
 ## ERDs
+![Project 3 ERDs](./project3erd.png)
 
 ## RESTful Routing Chart
 ### Server
