@@ -25,5 +25,15 @@ Cloudinary to allow users to upload photos to associate with each memory.
 ## ERDs
 
 ## RESTful Routing Chart
+### Server
+| METHOD | ACTION | DESCRIPTION |
+|--------|--------|-------------|
+| POST | /users/new | siging up a user |
+| POST | /users/login | logging in a user |
+| GET | /users/memories | fetch all of a users memories |
+| GET | /memories/:id | fetch a specific memory |
+| POST | /users/memories | create a new memory |
+| PUT | /memories/:id | update a specific memory |
+| DELETE | /memories/:id | delete a specific memory |
 
 ## Wireframes
